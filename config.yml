@@ -111,7 +111,7 @@ messages:
    categoryColor: "&c&l"
    categoryLoreColor: "&e"
    
-   noPermission: "&cyou are not allowed to do that!"
+   noPermission: "&cYou are not allowed to do that!"
    notEnoughMoney: "&cYou don't have enough money to do this!"
    notEnoughSpace: "&cYou don't have enough space in your inventory!"
    buyMessage: "&aYou bought %item% &afor &2%price%"
@@ -171,19 +171,19 @@ online_players-price: 50000
 
 # you can set the category ID's here
 
-alphabet-id: 15799
+alphabet-id: 164
 animals-id: 335
 blocks-id: 106
 decoration-id: 4151
 food_drinks-id: 22
 humans-id: 3996
 humanoid-id: 1530
-miscellaneous-id: 12371
+miscellaneous-id: 537
 monsters-id: 4187
-plants-id: 6
-custom-id: 99
-custom2-id: 98
-custom3-id: 97
+plants-id: 4982
+custom-id: 242
+custom2-id: 242
+custom3-id: 242
 online_players-id: 2669
 
 # format= name: "base64"
