@@ -104,7 +104,7 @@ messages:
    other: "other"
    loading: "&c..Loading.."
    recentHeads: "&aRecently added"
-   noPermissionToBuyLore: "&cNo Permission"
+   noPermissionToBuyLore: "&cYou are not allowed to buy this"
    searchCommand: "&7/hdb search [input]"
    loreColor: "&8"
    headItemColor: "&9"
@@ -140,8 +140,7 @@ messages:
       plants: "Plants"
       custom: "Helpers"
       custom2: "Modertors"
-      custom3: "Admins"
-      custom4: "Owners"
+      custom3: "Admins+"
       online_players: "Online Players"
 
 
@@ -167,26 +166,24 @@ monsters-price: 2000
 plants-price: 2000
 custom-price: 100000
 custom2-price: 250000
-custom3-price: 500000
-custom4-price: 1000000
+custom3-price: 1000000
 online_players-price: 50000
 
 # you can set the category ID's here
 
-alphabet-id: 164
+alphabet-id: 15799
 animals-id: 335
 blocks-id: 106
 decoration-id: 4151
 food_drinks-id: 22
 humans-id: 3996
 humanoid-id: 1530
-miscellaneous-id: 537
+miscellaneous-id: 12371
 monsters-id: 4187
-plants-id: 4982
-custom-id: 242
-custom2-id: 242
-custom3-id: 242
-custom4-id: 242
+plants-id: 6
+custom-id: 99
+custom2-id: 98
+custom3-id: 97
 online_players-id: 2669
 
 # format= name: "base64"
@@ -204,7 +201,6 @@ custom2:
 custom3:
   CavemanlyMan: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGJiOTVlZDE5MjJkYjVjYzM4YWU1NDI5NDMxZjBjNzc5NzIyYjc0NWRmNDNjMTNkNmUzMjJiZGQ1OWRjZCJ9fX0="
   SuperLinkNL: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWIzZTZmNmMyZjRjZDVjNDljMzA3OTdhYmExYzgxYmQxNGI0NWVkMTU1ZjdmMWRmYTRlNDUyYTZiZWYzMzkzNSJ9fX0="
-custom4:
-  _Syntax_Error: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWVhMGVlYjczYzEwNzI0YjdmZTAyZjM0ODI4ZWQ5ZmFiNTQxYzMxYWFhYjU1YzU0YWFkZTUyMGYxYTk1YTQyIn19fQ=="
   LadyKaviir: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjk2NGFmZTg0NDhlZWRmMzQ5YTgxMjcwOWI4Mzc4OTk3NDY1YzhjOTkzYWZjMGQ1YzlkOTI4ZjU2ZTIzYjY5ZiJ9fX0="
+  _Syntax_Error: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWVhMGVlYjczYzEwNzI0YjdmZTAyZjM0ODI4ZWQ5ZmFiNTQxYzMxYWFhYjU1YzU0YWFkZTUyMGYxYTk1YTQyIn19fQ=="
   
